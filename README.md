@@ -135,12 +135,6 @@ npm test
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
-
----
-
 ## 📄 License
 
 MIT License © 2025 Tactum
